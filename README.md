@@ -1,9 +1,8 @@
-# eTasks
-![image info](./images/print.png)
+# eNotes
 
 # :pushpin: índice
 
-- [eTasks](#etasks)
+- [eNotes](#enotes)
 - [:pushpin: índice](#pushpin-índice)
   - [:dart: Objetivo do Projeto](#dart-objetivo-do-projeto)
   - [:rocket: Tecnologias Utilizadas](#rocket-tecnologias-utilizadas)
